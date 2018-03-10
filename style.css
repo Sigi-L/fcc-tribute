@@ -1,0 +1,77 @@
+/* Styles go here 
+background="https://www.wpclipart.com/textures/background_tiles/hazy_background_tile.png">
+  <div>
+  */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: arial;
+}
+
+.div1 {
+  background-image: url("https://www.wpclipart.com/textures/background_tiles/hazy_background_tile.png");
+  background-size: 100% 100%; 
+
+  background-repeat: no-repeat;
+  background-origin: padding-box;
+  padding: 15px;
+  margin: 50px;
+}
+
+.header {
+  text-align: center;
+}
+
+.div2 {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+}
+
+.div2>img,
+.div2>p {
+  padding: 5px;
+  width: 100%;
+}
+
+.div3 {
+  margin: auto;
+  padding: 0 30px;
+  width: 70%;
+}
+
+.li3 {
+  width: 80%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.bold,
+.p3 {
+  font-weight: bold;
+}
+
+.div4 {
+  margin: auto;
+  padding: 0 30px;
+  width: 80%;
+}
+
+.q1 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.q2 {
+  font-style: italic;
+  color: grey;
+  font-size: 10px;
+}
+
+.div5 {
+  text-align: center;
+  padding-bottom: 10px;
+}
